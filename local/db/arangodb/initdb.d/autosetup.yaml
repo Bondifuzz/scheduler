@@ -1,0 +1,10 @@
+users:
+  - username: scheduler
+    password: scheduler
+databases:
+  - name: Scheduler
+    collections: []
+grants:
+  - username: scheduler
+    database: Scheduler
+    permissions: rw

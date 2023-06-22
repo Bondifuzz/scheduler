@@ -1,0 +1,4 @@
+-r requirements-dev.txt
+pytest==6.2.4
+pytest-asyncio==0.15.1
+pytest-ordering==0.6
