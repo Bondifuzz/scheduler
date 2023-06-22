@@ -1,5 +1,5 @@
 #!/bin/sh
 
-autoflake -r ./api_gateway --remove-all-unused-imports -i
-isort -q ./api_gateway
-black -q ./api_gateway
+autoflake -r ./scheduler --remove-all-unused-imports -i
+isort -q ./scheduler
+black -q ./scheduler
